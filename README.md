@@ -2,7 +2,7 @@
 ConvertPDF is an application that uses to convert PDF files to different type of files such as .docx, .txt, or .html
 
 ## Status
-First version released for converting pdf file to .docx
+Beta version released for converting pdf file to .docx, .txt, and .html
 Currently working on converting other types of files.
 
 ![](ConvertPDFFiles.png)
@@ -19,7 +19,7 @@ run setup.exe
 * 1.0.0.0
     * published first version with converting pdf file to .docx file
 * 1.0.0.1
-    * Working on adding more output file types.
+    * Added more output file types .txt and .html.
 
 
 ## Meta
